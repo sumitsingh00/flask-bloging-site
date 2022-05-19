@@ -60,7 +60,7 @@ class Posts(db.Model):
 
 @app.route("/")
 def home():
-    flash("Subscribe to CodeWithHarry!", "success")
+    flash("Wlecome to tech bloging!", "success")
     posts = Posts.query.filter_by().all()
     last = math.ceil(len(posts)/int(params['no_of_posts']))
     page = request.args.get('page')
