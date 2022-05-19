@@ -1,0 +1,20 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/electoncoding",
+        "prod_uri": "mysql://root:@localhost/electoncoding",
+        "fb_url": "https://facebook.com/electoncoding",
+        "tw_url": "https://twitter.com/electoncoding",
+        "gh_url": "https://github.com/electoncoding",
+        "blog_name": "Electon coding",
+        "tag_line": "Heaven for programmers",
+        "gmail-user": "email@gmail.com",
+        "gmail-password": "fuck_u",
+        "about_text": "hi my name is sumit and i am creating this post webite",
+        "no_of_posts": 3,
+        "login_image":"login.svg",
+        "admin_user":"a",
+        "admin_password": "a",
+        "upload_location":"C:\\Users\\sumit\\Desktop\\web developement flask using python\\python using flask\\chapter 25 massage\\static\\assets\\img"
+    }
+}
