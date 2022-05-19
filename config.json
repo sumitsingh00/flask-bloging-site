@@ -1,12 +1,12 @@
 {
     "params": {
         "local_server": "True",
-        "local_uri": "mysql://root:@localhost/electoncoding",
-        "prod_uri": "mysql://root:@localhost/electoncoding",
-        "fb_url": "https://facebook.com/electoncoding",
-        "tw_url": "https://twitter.com/electoncoding",
-        "gh_url": "https://github.com/electoncoding",
-        "blog_name": "Electon coding",
+        "local_uri": "mysql://root:@localhost/techblog",
+        "prod_uri": "mysql://root:@localhost/techblog",
+        "fb_url": "https://facebook.com/techblog",
+        "tw_url": "https://twitter.com/techblog",
+        "gh_url": "https://github.com/techblog",
+        "blog_name": "tech bloging",
         "tag_line": "Heaven for programmers",
         "gmail-user": "email@gmail.com",
         "gmail-password": "fuck_u",
